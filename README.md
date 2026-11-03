@@ -13,6 +13,8 @@ starting February 2027 (5 months).
 ## Projects
 - [Multi-Robot Formation Control](https://github.com/FadiHaniHanna/Multi-Robot-Formation-Control-System-for-Cooperative-Warehouse-Transportation):
   closed-loop control of Mecanum-wheel robots with ArUco-based localization in ROS 2 (team project, GIU)
+- [Chess-Playing UR5e Robot](https://github.com/FadiHaniHanna/chess-playing-ur5e-robot):
+  autonomous chess robot with YOLO vision, Stockfish and MoveIt; my part is the ROS 2 mapper and state-change node (team project, GIU)
 - **Ubongo-playing robot:** bachelor thesis in progress at Hochschule Heilbronn; my part is robot motion control (repository private for now)
 
 ## Contact
